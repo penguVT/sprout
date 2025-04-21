@@ -1,5 +1,7 @@
 # Sprout
 
+**NOTE: This language spec was created with chatgippity and is experimental. I haven't properly vetted the grammar or thought through the potential pitfalls of the spec yet. If you notice any glaring issues, please make a PR with the corresponding changes / fixes.** 
+
 Sprout is a statement-oriented language with:
 
 - **Scalar types**: `int`, `bool`
